@@ -212,8 +212,8 @@
                 longitude = data_map_y;
 
             var locations = [
-                ['<div class="infobox"><h4>Hello</h4><p>Now that you visited our website, how' +
-                ' <br>about checking out our office too?</p></div>'
+                ['<div class="infobox"><h4>Hola</h4><p>Ahora que visitaste nuestra pagina web, Que' +
+                ' <br>tal si echas un vistazo a nuestra FES?</p></div>'
                     , latitude, longitude, 2]
             ];
 
