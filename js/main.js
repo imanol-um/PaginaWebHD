@@ -268,15 +268,194 @@
     
     /*==================================================================
     [ Show modal1 ]*/
-    $('.js-show-modal1').on('click',function(e){
+
+    
+    $('.js-show-modal1').on('click', function (e) {
         e.preventDefault();
-        $('.js-modal1').addClass('show-modal1');
+        window.location.href = 'product1.html';
     });
 
-    $('.js-hide-modal1').on('click',function(){
+    $('.js-hide-modal1').on('click', function () {
         $('.js-modal1').removeClass('show-modal1');
     });
 
+    /*==================================================================
+    [ Show modal2 ]*/
 
+    $('.js-show-modal2').on('click', function (e) {
+        e.preventDefault();
+        window.location.href = 'product2.html';
+    });
 
+    $('.js-hide-modal2').on('click', function () {
+        $('.js-modal2').removeClass('show-modal2');
+    });
+
+    /*==================================================================
+    [ Show modal3 ]*/
+
+    $('.js-show-modal3').on('click', function (e) {
+        e.preventDefault();
+        window.location.href = 'product3.html';
+    });
+
+    $('.js-hide-modal3').on('click', function () {
+        $('.js-modal3').removeClass('show-modal3');
+    });
+
+    /*==================================================================
+    [ Show modal4 ]*/
+
+    $('.js-show-modal4').on('click', function (e) {
+        e.preventDefault();
+        window.location.href = 'product4.html';
+    });
+
+    $('.js-hide-modal4').on('click', function () {
+        $('.js-modal4').removeClass('show-modal4');
+    });
+
+    /*==================================================================
+    [ Show modal5 ]*/
+
+    $('.js-show-modal5').on('click', function (e) {
+        e.preventDefault();
+        window.location.href = 'product5.html';
+    });
+
+    $('.js-hide-modal5').on('click', function () {
+        $('.js-modal5').removeClass('show-modal5');
+    });
+
+    /*==================================================================
+    [ Show modal6 ]*/
+
+    $('.js-show-modal6').on('click', function (e) {
+        e.preventDefault();
+        window.location.href = 'product6.html';
+    });
+
+    $('.js-hide-modal6').on('click', function () {
+        $('.js-modal6').removeClass('show-modal6');
+    });
+
+    /*==================================================================
+    [ Show modal7 ]*/
+
+    $('.js-show-modal7').on('click', function (e) {
+        e.preventDefault();
+        window.location.href = 'product7.html';
+    });
+
+    $('.js-hide-modal7').on('click', function () {
+        $('.js-modal7').removeClass('show-modal7');
+    });
+
+    /*==================================================================
+    [ Show modal8 ]*/
+
+    $('.js-show-modal8').on('click', function (e) {
+        e.preventDefault();
+        window.location.href = 'product8.html';
+    });
+
+    $('.js-hide-modal8').on('click', function () {
+        $('.js-modal8').removeClass('show-modal8');
+    });
+
+    /*==================================================================
+    [ Show modal9 ]*/
+
+    $('.js-show-modal9').on('click', function (e) {
+        e.preventDefault();
+        window.location.href = 'product9.html';
+    });
+
+    $('.js-hide-modal9').on('click', function () {
+        $('.js-modal9').removeClass('show-modal9');
+    });
+
+    /*==================================================================
+    [ Show modal10 ]*/
+
+    $('.js-show-modal10').on('click', function (e) {
+        e.preventDefault();
+        window.location.href = 'product10.html';
+    });
+
+    $('.js-hide-modal10').on('click', function () {
+        $('.js-modal10').removeClass('show-modal10');
+    });
+
+    /*==================================================================
+    [ Show modal11 ]*/
+
+    $('.js-show-modal11').on('click', function (e) {
+        e.preventDefault();
+        window.location.href = 'product11.html';
+    });
+
+    $('.js-hide-modal11').on('click', function () {
+        $('.js-modal11').removeClass('show-modal11');
+    });
+
+    /*==================================================================
+    [ Show modal12 ]*/
+
+    $('.js-show-modal12').on('click', function (e) {
+        e.preventDefault();
+        window.location.href = 'product12.html';
+    });
+
+    $('.js-hide-modal12').on('click', function () {
+        $('.js-modal12').removeClass('show-modal2');
+    });
+
+    /*==================================================================
+    [ Show modal13 ]*/
+
+    $('.js-show-modal13').on('click', function (e) {
+        e.preventDefault();
+        window.location.href = 'product13.html';
+    });
+
+    $('.js-hide-modal13').on('click', function () {
+        $('.js-modal13').removeClass('show-modal13');
+    });
+
+    /*==================================================================
+    [ Show modal14 ]*/
+
+    $('.js-show-modal14').on('click', function (e) {
+        e.preventDefault();
+        window.location.href = 'product14.html';
+    });
+
+    $('.js-hide-modal14').on('click', function () {
+        $('.js-modal14').removeClass('show-modal14');
+    });
+
+    /*==================================================================
+    [ Show modal15 ]*/
+
+    $('.js-show-modal15').on('click', function (e) {
+        e.preventDefault();
+        window.location.href = 'product15.html';
+    });
+
+    $('.js-hide-modal15').on('click', function () {
+        $('.js-modal15').removeClass('show-modal15');
+    });
+
+    /*==================================================================
+    [ Show modal16 ]*/
+
+    $('.js-show-modal16').on('click', function (e) {
+        e.preventDefault();
+        window.location.href = 'product16.html';
+    });
+
+    $('.js-hide-modal16').on('click', function () {
+        $('.js-modal16').removeClass('show-modal16');
+    });
 })(jQuery);
